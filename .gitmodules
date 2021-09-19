@@ -10,3 +10,6 @@
 [submodule "Password_Manager"]
 	path = Password_Manager
 	url = https://github.com/Tanya-Arora21/Password_Manager
+[submodule "ProtectMyFace"]
+	path = ProtectMyFace
+	url = https://github.com/VibNY/ProtectMyFace.git
